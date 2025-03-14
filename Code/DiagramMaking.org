@@ -1,0 +1,8 @@
+#+title: Diagram Making
+
+Diagram maker online
+https://app.diagrams.net/#Aada-e7-reader-2025%2Fsound-art%2Fmain%2FUntitled%20Diagram.drawio#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
+
+Save in GitLab
+
+Open with CorelDraw or Notability or ...
